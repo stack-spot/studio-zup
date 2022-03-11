@@ -113,6 +113,4 @@ stacks:
   - location: "https://github.com/stack-spot/zup-web-nextjs"
   - location: "https://github.com/stack-spot/zup-web-backend-express"
   - location: "https://github.com/stack-spot/zup-studio-android"
-  - location: "https://github.com/stack-spot/android-sdk-app-template"
   - location: "https://github.com/stack-spot/studio-zup-ios"
-  - location: "https://github.com/stack-spot/ios-sdk-app-template"
