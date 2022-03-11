@@ -3,8 +3,7 @@ displayName: Studio ZUP
 picture: "pictures/studio.jpeg"
 company: ZUP
 about: Stacks que provêm confiança e velocidade no seu desenvolvimento
-#technologies: [ "Kotlin", "SpringBoot", "BFF", "GRPC", "Metrics", "AWS CloudWatch", "Prometheus", "Tracing", "Jaeger", "AWS Xray", "AWS SQS", "Relational Database", "MariaDB", "MySQL", "PostgreSQL", "Database Migrations", "Flyway", "Liquibase", "OpenAPI", "Web", "React", "Citric", "NextJS", "TypeScript", "Express", "Mobile", "Android", "IOS", "Server Driven UI", "Beagle", "Design System" ]
-technologies: [ "AWS SQS", "Docker", "Jaeger", "Java", "OpenAPI", "Prometheus", "Springboot", "Typescript" ]
+technologies: [ "Kotlin", "SpringBoot", "Metrics", "AWS CloudWatch", "Prometheus", "Tracing", "Jaeger", "AWS Xray", "AWS SQS", "Relational Database", "MariaDB", "MySQL", "PostgreSQL", "Database Migrations", "Flyway", "Liquibase", Web", "React", "Citric", "NextJS", "TypeScript", "JavaScript", "Express", "Beagle", "Microfrontend", "Mobile", "Android", "IOS", "Server Driven UI", "Design System" ]
 whoWeAre: |
  O estúdio Zup nasceu com a missão de ajudar desenvolvedores a entregar software com inteligência, velocidade e confiança, para que o negócio consiga entregar mais funcionalidades para seus clientes.
  Somos desenvolvedores apaixonados por tecnologia, estamos sempre buscando inovar em nossas soluções, utilizando as melhores práticas de desenvolvimento sempre focando nos nossos valores: Inteligência, velocidade e confiança.
@@ -110,8 +109,6 @@ creators:
 
 stacks:
   - location: "https://github.com/stack-spot/zup-catalog"
-  - location: "https://github.com/stack-spot/spring-kotlin-baas-catalog"
-  - location: "https://github.com/stack-spot/reactive-spring-kotlin-baas-catalog"
   - location: "https://github.com/stack-spot/zup-web-react"
   - location: "https://github.com/stack-spot/zup-web-nextjs"
   - location: "https://github.com/stack-spot/zup-web-backend-express"
