@@ -108,7 +108,7 @@ creators:
     picture: "https://avatars.githubusercontent.com/u/42281214?v=4"
 
 stacks:
-  - location: "https://github.com/stack-spot/zup-catalog"
+  - location: "https://github.com/stack-spot/zup-kotlin-stack"
   - location: "https://github.com/stack-spot/zup-web-react"
   - location: "https://github.com/stack-spot/zup-web-nextjs"
   - location: "https://github.com/stack-spot/zup-web-backend-express"
