@@ -1,0 +1,90 @@
+name: zup-studio
+displayName: Studio ZUP
+picture: "pictures/studio.jpeg"
+company: ZUP
+about: Stacks que provêm confiança e velocidade no seu desenvolvimento
+technologies: [ "Kotlin", "SpringBoot", "Logging", "Metrics", "AWS CloudWatch", "Prometheus", "Tracing", "Jaeger", "AWS X-Ray", "AWS SQS", "Relational Database", "MariaDB", "MySQL", "PostgreSQL", "Database Migrations", "Flyway", "Liquibase", "CDK", "Web", "React", "Citric", "NextJS", "TypeScript", "JavaScript", "Express", "Beagle", "Microfrontend" ]
+whoWeAre: |
+ O estúdio Zup nasceu com a missão de ajudar desenvolvedores a entregar software com inteligência, velocidade e confiança, para que o negócio consiga entregar mais funcionalidades para seus clientes.
+ Somos desenvolvedores apaixonados por tecnologia, estamos sempre buscando inovar em nossas soluções, utilizando as melhores práticas de desenvolvimento sempre focando nos nossos valores: Inteligência, velocidade e confiança.
+ Utilizamos a tecnologia da StackSpot para lançar as nossas stacks.
+
+creators:
+  
+  - displayName: Fernando Eduardo De Queiroz
+    jobRole: Software Engineer
+    profileURL: "https://github.com/fernandoqueirozzup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/68235155?v=4"
+
+  - displayName: Jose Augusto Martins Regis
+    jobRole: Software Engineer
+    profileURL: "https://github.com/ze12augusto"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/7053028?v=4"
+
+  - displayName: Jose Inacio Junior
+    jobRole: Tech Lead
+    profileURL: "https://github.com/joseinaciozup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/14913642?v=4"
+
+  - displayName: Luis Eduardo Marques 
+    jobRole: Software Engineer
+    profileURL: "https://github.com/luismarqueszup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/59897633?v=4"
+
+  - displayName: Luiz Gustavo Gomes Borges
+    jobRole: Software Engineer
+    profileURL: "https://github.com/LG95"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/9141516?v=4"
+
+  - displayName: Ricardo Jose Da Silva 
+    jobRole: Software Engineer
+    profileURL: "https://github.com/ricardojsilva"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/23244493?v=4"                
+
+  - displayName: Ricardo Rames Basilio Junior
+    jobRole: Principal
+    profileURL: "https://github.com/ricardorames"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/1824545?v=4"
+
+  - displayName: Rodrigo Fernando Silva
+    jobRole: Software Engineer
+    profileURL: "https://github.com/rodrigofernandozup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/63373278?v=4"
+
+  - displayName: Arthur Fernandes Ribeiro
+    jobRole: Software Engineer
+    profileURL: "https://github.com/arthurribeirozup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/48961051?v=4"
+
+  - displayName: Jamesson Miranda da Penha
+    jobRole: Software Engineer
+    profileURL: "https://github.com/jamessonpenhazup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/65912159?v=4" 
+
+  - displayName: Lucas Carvalho Gondim
+    jobRole: Tech Lead
+    profileURL: "https://github.com/lucasgondim"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/687407?v=4"
+
+  - displayName: Magno Cardoso Lemos
+    jobRole: Software Engineer
+    profileURL: "https://github.com/magnolemoszup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/81317865?v=4"
+
+stacks:
+  - location: "https://github.com/stack-spot/zup-kotlin-stack"
+  - location: "https://github.com/stack-spot/zup-web-react"
+  - location: "https://github.com/stack-spot/zup-web-nextjs"
+  - location: "https://github.com/stack-spot/zup-web-backend-express"

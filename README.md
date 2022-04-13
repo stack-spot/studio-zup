@@ -1,1 +1,1 @@
-# studio-zup
+#zup-studio
