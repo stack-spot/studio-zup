@@ -87,4 +87,5 @@ stacks:
   - location: "https://github.com/stack-spot/zup-kotlin-stack"
   - location: "https://github.com/stack-spot/zup-web-react"
   - location: "https://github.com/stack-spot/zup-web-nextjs"
-  - location: "https://github.com/stack-spot/zup-web-backend-express"
+  - location: "https://github.com/stack-spot/zup-web-backend-express"  
+  - location: "https://github.com/stack-spot/stackspot-python-stack"
